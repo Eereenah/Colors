@@ -7,4 +7,6 @@ Project includes:
 * Adobe Kuler Dataset data exploration
 * Rating predictor using LeNet (WIP)
 
+<img src="https://i.imgur.com/Bpddo8D.jpg">
+
 Wolfram cloud form with current features can be acessed [here](https://www.wolframcloud.com/objects/01bf6f55-bb07-4c3c-aabb-a3f5ffa74222).
